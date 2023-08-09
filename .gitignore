@@ -1,0 +1,4 @@
+alphas
+model_weights
+*.pyc
+*.env
